@@ -1,7 +1,7 @@
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="css3" width="100%" height="150"/> </a> </p>
 
 <h1 align="center">Hi 👋, I'm Ujjwal Singh Welcome!</h1>
-<h3 align="center">A passionate Frontend Developer and Competative Programmer</h3>
+<h3 align="center">A passionate Frontend Developer and Competitive Programmer</h3>
 
 
  
